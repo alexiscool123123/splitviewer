@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/splitviewer/static/css/main.0a617adf.css",
-    "main.js": "/splitviewer/static/js/main.e7a388a0.js",
-    "index.html": "/splitviewer/index.html",
-    "main.0a617adf.css.map": "/splitviewer/static/css/main.0a617adf.css.map",
-    "main.e7a388a0.js.map": "/splitviewer/static/js/main.e7a388a0.js.map"
+    "main.css": "/my-app/static/css/main.0a617adf.css",
+    "main.js": "/my-app/static/js/main.e7a388a0.js",
+    "index.html": "/my-app/index.html",
+    "main.0a617adf.css.map": "/my-app/static/css/main.0a617adf.css.map",
+    "main.e7a388a0.js.map": "/my-app/static/js/main.e7a388a0.js.map"
   },
   "entrypoints": [
     "static/css/main.0a617adf.css",
