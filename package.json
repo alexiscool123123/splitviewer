@@ -1,6 +1,6 @@
 {
   "name": "basic",
-  "homepage": "http://alexiscool123132.github.io/splitviewer",
+  "homepage": "http://alexiscool123123.github.io/splitviewer",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
@@ -17,10 +17,8 @@
     "typescript": "4.1.3"
   },
   "scripts": {
-  
-      "predeploy": "npm run build",
-      "deploy": "gh-pages -d build",
-      
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
